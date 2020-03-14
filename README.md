@@ -1,2 +1,3 @@
-# React-study
- 
+### React-study
+
+본 리포지토리는 React를 공부하며 제작한 프로젝트를 저장하는 공간입니다.
